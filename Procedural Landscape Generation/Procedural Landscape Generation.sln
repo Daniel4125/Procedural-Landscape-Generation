@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F149A814-E062-3C53-6064-A5A76554F7C7}") = "Procedural Landscape Generation", "Assembly-CSharp.csproj", "{B366FEBF-64F6-E915-60DC-A02A7C10714F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B366FEBF-64F6-E915-60DC-A02A7C10714F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B366FEBF-64F6-E915-60DC-A02A7C10714F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B366FEBF-64F6-E915-60DC-A02A7C10714F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B366FEBF-64F6-E915-60DC-A02A7C10714F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
